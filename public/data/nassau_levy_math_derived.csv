@@ -1,0 +1,18 @@
+Item (derived),Formula ($M),Result
+Levy change FY2017 to FY2027,755.26 - 816.99,-61.7M (-7.6%)
+Major Funds budget change FY2017 to FY2027,"3,824.64 - 2,970.98",853.7M (28.7%)
+Levy share of Major Funds budget FY2017 / FY2027,"816.99/2,970.98 ; 755.26/3,824.64",27.5% / 19.7%
+Budgeted sales tax FY2017 to FY2027,"(1,054.4+88.1) to (1,584.3+128.9)",1142.5M to 1713.2M (+50.0%)
+Sales tax share of Major Funds budget FY2017 / FY2027,,38.5% / 44.8%
+FY2022 levy cut,825.26 - 755.26,70.0M (8.5%)
+One year of 2% growth on the Major Funds levy,755.26 x 2%,15.1M
+Levy in FY2027 if +2% each year FY2023-FY2027,755.26 x 1.02^5,833.9M (+78.6M/yr)
+Cumulative levy forgone FY2023-FY2027 at 2%/yr,"755.26 x (sum 1.02^k, k=1..5 - 5)",232.7M
+Levy increase to replace FY2027 budgeted reserves,43.5 / 755.26,5.8%
+"Levy increase to cover FY2027 gap w/o reserves, low",(60.5+43.5)/755.26,104.0M = 13.8%
+"Levy increase to cover FY2027 gap w/o reserves, high",(145.5+43.5)/755.26,189.0M = 25.0%
+"Levy increase to cover FY2030 gap w/o reserves, low",(116.0+26.5)/755.26,142.5M = 18.9%
+"Levy increase to cover FY2030 gap w/o reserves, high",(268.6+26.5)/755.26,295.1M = 39.1%
+FY2025 restated control-period deficit as share of levy,129.4/755.26,17.1%
+Tax-cert liability as share of one year's levy,292.7/755.26,38.8%
+Reserve decline 12/31/2024 to 9/30/2026,750.9 - 615.9,135.0M
