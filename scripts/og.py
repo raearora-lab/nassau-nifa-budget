@@ -2,7 +2,7 @@ from PIL import Image, ImageDraw, ImageFont, ImageFilter
 G="/usr/share/fonts/truetype/sand-box/google/"
 def fr(sz):
     f=ImageFont.truetype(G+"Fraunces/Fraunces-VariableFont_SOFT,WONK,opsz,wght.ttf",sz)
-    try: f.set_variation_by_axes([0,0,144,900])
+    try: f.set_variation_by_axes([144,900,0,0])
     except Exception:
         try: f.set_variation_by_name("Black")
         except Exception: pass
